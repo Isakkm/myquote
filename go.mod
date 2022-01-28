@@ -1,4 +1,4 @@
-module myquote.go
+module github.com/Isakkm/myquote
 
 go 1.17
 
